@@ -1,4 +1,4 @@
-# TA2-Python-Scripting
+# TA2-Python & Scripting
 A Secure LSB Image and Video Steganography &amp; Detection Tool (AES Protected).
 
 
